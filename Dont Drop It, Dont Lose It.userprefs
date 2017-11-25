@@ -1,0 +1,31 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CursorStateManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\EnemyController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyStates\EnemyFighting.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CountdownTimer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyStates\Chasing.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerUILifeController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuScreenController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PowerUp.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CursorStateManager.cs" Line="17" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dont Drop It, Dont Lose It" expanded="True" selected="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
